@@ -16,7 +16,7 @@ body, html {
     margin-top: 1.5%;
 }
 main{
-    background-image: url('/img/all-you-need-is-ecuador.jpg');
+    background-image: url('../img/all-you-need-is-ecuador.jpg');
     background-size: cover;
     opacity: 0.9;
 }
